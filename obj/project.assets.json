@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alan/Documentos/senai/codificação backend/customer control system/customer control system.csproj",
+      "projectUniqueName": "/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/customer control system.csproj",
       "projectName": "customer control system",
-      "projectPath": "/home/alan/Documentos/senai/codificação backend/customer control system/customer control system.csproj",
+      "projectPath": "/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/customer control system.csproj",
       "packagesPath": "/home/alan/.nuget/packages/",
-      "outputPath": "/home/alan/Documentos/senai/codificação backend/customer control system/obj/",
+      "outputPath": "/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alan/.nuget/NuGet/NuGet.Config"

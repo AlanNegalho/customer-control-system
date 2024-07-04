@@ -1,4 +1,4 @@
-namespace Controle_Clientes
+namespace CUSTOMER_CONTROL_SYSTEM
 {
 
     public class Clientes

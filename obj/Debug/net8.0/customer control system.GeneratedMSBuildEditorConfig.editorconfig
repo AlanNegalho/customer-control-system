@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = customer_control_system
-build_property.ProjectDir = /home/alan/Documentos/senai/codificação backend/customer control system/
+build_property.ProjectDir = /home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

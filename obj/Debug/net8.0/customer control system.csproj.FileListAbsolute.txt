@@ -1,0 +1,15 @@
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/bin/Debug/net8.0/customer control system
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/bin/Debug/net8.0/customer control system.deps.json
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/bin/Debug/net8.0/customer control system.runtimeconfig.json
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/bin/Debug/net8.0/customer control system.dll
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/bin/Debug/net8.0/customer control system.pdb
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/obj/Debug/net8.0/customer control system.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/obj/Debug/net8.0/customer control system.AssemblyInfoInputs.cache
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/obj/Debug/net8.0/customer control system.AssemblyInfo.cs
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/obj/Debug/net8.0/customer control system.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/obj/Debug/net8.0/customer control system.sourcelink.json
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/obj/Debug/net8.0/customer control system.dll
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/obj/Debug/net8.0/refint/customer control system.dll
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/obj/Debug/net8.0/customer control system.pdb
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/obj/Debug/net8.0/customer control system.genruntimeconfig.cache
+/home/alan/Documentos/senai/codificação backend/SP2- TIVIDADE 1-DESEN CONTROL CLIENTE/customer_control_system/obj/Debug/net8.0/ref/customer control system.dll
